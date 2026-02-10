@@ -16,7 +16,7 @@ let package = Package(
             name: "GumletVideoPlayer",
             // TODO: Update version in URL if not 1.0.0
             url: "https://github.com/gumlet/spm-releases/releases/download/1.0.0/GumletVideoPlayer.xcframework.zip", 
-            checksum: "7f40c198f83ae7e76b215743764b5acc2b51446bd7fe25ad4b8125fc29bcfcb1"
+            checksum: "3c37453ac5d56ef8cc591a7752088b46908c98f86cd6f35cb81363300e5a318f"
         ),
     ]
 )
