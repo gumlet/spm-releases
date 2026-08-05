@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# The XCFramework is uploaded as a GitHub release asset, not committed here.
+# Package.swift points at the release download URL.
+*.xcframework.zip
+*.xcframework/

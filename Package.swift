@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GumletVideoPlayer",
-            url: "https://github.com/gumlet/spm-releases/releases/download/1.0.2/GumletVideoPlayer.xcframework.zip", 
-            checksum: "0b5ad10cbcb6e519a2cdbfd00b39ce090fa48347cac68016c6d4ebb642d256dc"
+            url: "https://github.com/gumlet/spm-releases/releases/download/1.0.3/GumletVideoPlayer.xcframework.zip",
+            checksum: "8ac700a1a0cd17dfe530d9f7634ece0e82054e632557f6afef9957679747eda9"
         ),
     ]
 )
